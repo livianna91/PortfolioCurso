@@ -1,7 +1,7 @@
 # Projeto do Curso de HTML e CSS para iniciantes - Origamid 
 ## Link: https://portfoliocursobyliv.netlify.app
 
-####Este projeto de Portfolio Responsivo foi desenvolvido como parte de um curso de HTML e CSS voltado para iniciantes. O objetivo principal era ajudar os alunos a desenvolver suas habilidades na criação de sites responsivos, design eficiente e aplicação prática das propriedades do CSS.
+#### Este projeto de Portfolio Responsivo foi desenvolvido como parte de um curso de HTML e CSS voltado para iniciantes. O objetivo principal era ajudar os alunos a desenvolver suas habilidades na criação de sites responsivos, design eficiente e aplicação prática das propriedades do CSS.
 
 
 ### Tecnologias utilizadas
